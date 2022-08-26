@@ -134,6 +134,7 @@
 1204176775,loadstring(game:HttpGet("https://pastebin.com/raw/7MghTk6V"))(),
 9265065072,loadstring(game:HttpGet("https://pastebin.com/raw/UCsB5xC3"))(),
 3851622790,loadstring(game:HttpGet("https://pastebin.com/raw/KjXdpKdg"))(),
+4483381587,loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))(),
 
 
 
